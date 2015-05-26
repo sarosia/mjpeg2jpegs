@@ -4,9 +4,9 @@
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
 
-It allows you to convert a MJPEG stream to multiple JPEGs, which is quite useful if you want to save the stream into a stream of JPEGs for further post-processing.
+It allows you to convert a MJPEG stream to multiple JPEGs, which is quite useful if you want to save the MJPEG stream from a webcam into a stream of JPEGs for further post-processing.
 
-## Example 
+## Example
 
 ```js
 var mjpeg2jpegs = require("mjpeg2jpegs");
