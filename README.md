@@ -30,7 +30,7 @@ http.request({
 ## Installation
 
 ```bash
-# npm install mjpeg2jpegs
+npm install mjpeg2jpegs
 ```
 
 ## License
