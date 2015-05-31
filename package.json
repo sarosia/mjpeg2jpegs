@@ -1,11 +1,24 @@
 {
   "name": "mjpeg2jpegs",
   "version": "1.0.0",
-  "description": "",
+  "description": "`mjpeg2jpegs` - convert a MJPEG stream to mutliple JPEGs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "https://github.com/sarosia",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarosia/mjpeg2jpegs.git"
+  },
+  "keywords": [
+    "mjpeg",
+    "jpeg",
+    "webcam"
+  ],
+  "bugs": {
+    "url": "https://github.com/sarosia/mjpeg2jpegs/issues"
+  },
+  "homepage": "https://github.com/sarosia/mjpeg2jpegs#readme"
 }
