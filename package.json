@@ -1,6 +1,6 @@
 {
   "name": "mjpeg2jpegs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "`mjpeg2jpegs` - convert a MJPEG stream to mutliple JPEGs",
   "main": "lib/index.js",
   "scripts": {
