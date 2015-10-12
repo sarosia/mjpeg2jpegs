@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/sarosia/mjpeg2jpegs/issues"
   },
-  "homepage": "https://github.com/sarosia/mjpeg2jpegs#readme"
+  "homepage": "https://github.com/sarosia/mjpeg2jpegs#readme",
+  "dependencies": {
+    "buffer-indexof-polyfill": "^1.0.0"
+  }
 }
